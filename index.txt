@@ -4,3 +4,4 @@ Welcome to newgithub account
 
 adding buckets
 adding EC2 and S3
+Thank you
